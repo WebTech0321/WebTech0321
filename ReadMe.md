@@ -20,7 +20,7 @@
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- 📫 <b>Languages</b> : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP, Python
+- 📫 <b>Languages</b> : JavaScript, TypeScript, C++, Java, PHP, Python
 
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=WebTech0321&column=7&theme=onedark"/>
